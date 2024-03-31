@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/HW17/v17
+/.vs
+/Mod17_HW/.vs
+/Mod17_HW/Mod17_HW/bin/Debug/net7.0
+/Mod17_HW/Mod17_HW/obj
